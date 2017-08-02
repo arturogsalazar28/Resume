@@ -1,5 +1,6 @@
 # [START runtime]
-runtime: python27
+runtime: nodejs
+env: flex
 threadsafe: yes
 # [END runtime]
 
