@@ -1,6 +1,5 @@
 # [START runtime]
 runtime: python27
-env: standard
 threadsafe: yes
 # [END runtime]
 
