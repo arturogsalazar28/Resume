@@ -11,3 +11,7 @@
 .carousel-item > .item > img{
    min-width: 100%;
 }
+
+.carousel-caption{
+    top: 650px;
+}
