@@ -15,3 +15,8 @@
 .carousel-caption{
     top: 650px;
 }
+
+.row div{
+  height: 100px;
+  text-align: center;
+}
