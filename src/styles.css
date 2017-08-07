@@ -25,3 +25,7 @@
     padding-top: 10%;
     font-size: 24px;
 }
+  
+.navbar-footer-icons > li {
+  display: inline-block;
+}
